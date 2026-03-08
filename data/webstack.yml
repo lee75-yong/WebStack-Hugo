@@ -4,11 +4,11 @@
   icon: far fa-star
   links: 
     - title: OUTLOOK 邮箱
-      logo: https://api.iowen.cn/favicon/outlook.com.png
+      logo: https://www.google.com/s2/favicons?domain=outlook.com
       url: https://www.outlook.com
       description: 微软邮箱。
     - title: GMAIL 邮箱
-      logo: https://api.iowen.cn/favicon/gmail.com.png
+      logo: https://www.google.com/s2/favicons?domain=gmail.com
       url: https://mail.google.com/
       description: 谷歌邮箱。      
     - title: QQ 邮箱
