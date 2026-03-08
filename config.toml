@@ -1,12 +1,15 @@
 baseURL               = "https://webstack-hugo.weiyan.cc/"
 languageCode          = "zh-CN"
 title                 = "WebStack-Hugo 网址导航"
-
+disableKinds = ["RSS","taxonomy","term"]
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "public"				# 站点静态文件保存目录
 
+[author]
+name = "shenweiyan"
+email = ""
 
 [params]
     author        = "shenweiyan"
