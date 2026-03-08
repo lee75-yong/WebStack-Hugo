@@ -122,6 +122,10 @@
   list:
     - term: 影音视频
       links:
+        - title: YOUTUBE
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description: YouTube视频。
         - title: 腾讯视频
           logo: 腾讯视频.png
           url: http://v.qq.com/
