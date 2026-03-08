@@ -8,11 +8,11 @@
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: OUTLOOK 邮箱
-      logo: logo: https://api.iowen.cn/favicon/outlook.com.png
+      logo: https://api.iowen.cn/favicon/outlook.com.png
       url: https://www.outlook.com
       description: 微软邮箱。
     - title: GMAIL 邮箱
-      logo: logo: https://api.iowen.cn/favicon/gmail.com.png
+      logo: https://api.iowen.cn/favicon/gmail.com.png
       url: https://mail.google.com/
       description: 谷歌邮箱。      
     - title: QQ 邮箱
