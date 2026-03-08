@@ -3,10 +3,6 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
     - title: OUTLOOK 邮箱
       logo: https://api.iowen.cn/favicon/outlook.com.png
       url: https://www.outlook.com
@@ -19,6 +15,10 @@
       logo: qq邮箱.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
+    - title: 语雀
+      logo: 语雀.webp
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。      
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
