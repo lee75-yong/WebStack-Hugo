@@ -8,7 +8,7 @@
       url: https://www.outlook.com
       description: 微软邮箱。
     - title: GMAIL 邮箱
-      logo: https://mail.google.com.png
+      logo: google.png
       url: https://mail.google.com/
       description: 谷歌邮箱。      
     - title: QQ 邮箱
