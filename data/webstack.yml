@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: CloudFlare
+      logo: cloudflare.png
+      url: https://www.cloudflare-cn.com/
+      description: CloudFlare 智能化云服务平台。    
     - title: OUTLOOK 邮箱
       logo: outlook.png
       url: https://www.outlook.com
