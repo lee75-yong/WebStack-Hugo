@@ -4,11 +4,11 @@
   icon: far fa-star
   links: 
     - title: OUTLOOK 邮箱
-      logo: https://outlook.live.com.png
+      logo: outlook.png
       url: https://www.outlook.com
       description: 微软邮箱。
     - title: GMAIL 邮箱
-      logo: google.png
+      logo: gmail.png
       url: https://mail.google.com/
       description: 谷歌邮箱。      
     - title: QQ 邮箱
