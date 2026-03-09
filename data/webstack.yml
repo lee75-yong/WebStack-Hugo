@@ -7,6 +7,18 @@
       logo: cloudflare.png
       url: https://www.cloudflare-cn.com/
       description: CloudFlare 智能化云服务平台。    
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: ChatGPT
+      logo: chatgpt.png
+      url: https://chatgpt.com/
+      description: Ai ChatGPT。
+     - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: Ai Gemini。     
     - title: OUTLOOK 邮箱
       logo: outlook.png
       url: https://www.outlook.com
@@ -15,6 +27,10 @@
       logo: gmail.png
       url: https://mail.google.com/
       description: 谷歌邮箱。      
+    - title: 126 邮箱
+      logo: 126mail.png
+      url: http://mail.126.com/
+      description: 网易126免费邮箱。    
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
@@ -31,10 +47,7 @@
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
+
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
