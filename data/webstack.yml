@@ -11,6 +11,10 @@
       logo: github.png
       url: https://github.com/
       description: GitHub 开源社区。
+    - title: notebooklm
+      logo: notebooklm.png
+      url: https://notebooklm.google.com/
+      description: 谷歌笔记本，变革你的学习笔记。   
     - title: ChatGPT
       logo: chatgpt.png
       url: https://chatgpt.com/
@@ -35,12 +39,6 @@
       logo: qq邮箱.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
-
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
@@ -164,7 +162,10 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-
+        - title: 公众号平台
+          logo: 微信公众号.png
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌。
   
       
 - taxonomy: 素材资源
