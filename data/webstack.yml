@@ -3,10 +3,6 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 谷歌搜索
-      logo: google.png
-      url: https://www.google.com/
-      description: 谷歌搜索。 
     - title: CloudFlare
       logo: cloudflare.png
       url: https://www.cloudflare-cn.com/
@@ -32,9 +28,13 @@
       url: https://chatgpt.com/
       description: Ai ChatGPT。
     - title: Gemini
-      logo: gemini.webp
+      logo: google-gemini.png
       url: https://gemini.google.com/
       description: Ai Gemini。 
+    - title: 谷歌
+      logo: google.png
+      url: https://www.google.com/
+      description: 谷歌搜索。     
     - title: Grok
       logo: grok.png
       url: https://grok.com/
