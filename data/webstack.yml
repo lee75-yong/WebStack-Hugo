@@ -207,6 +207,10 @@
           description: 坚果云官网。
     - term: 图标素材
       links:
+        - title: Dashboard Icons
+          logo: dashboard-icons.png
+          url: https://dashboardicons.com/icons
+          description: 高质量、统一风格图标的开源集合库。
         - title: Iconfinder
           logo: Iconfinder.png
           url: https://www.iconfinder.com
