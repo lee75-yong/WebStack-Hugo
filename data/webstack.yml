@@ -2,63 +2,71 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
-    - title: CloudFlare
-      logo: cloudflare.png
-      url: https://www.cloudflare-cn.com/
-      description: CloudFlare 智能化云服务平台。    
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: notebooklm
-      logo: notebooklm.png
-      url: https://notebooklm.google.com/
-      description: 谷歌笔记本，变革你的学习笔记。   
-    - title: OpenWrt
-      logo: openwrt.png
-      url: http://192.168.124.254
-      description: Rout openwrt。
-    - title: Clash Yacd
-      logo: yacd.png
-      url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
-      description: OpenClash 控制面板。      
-    - title: ChatGPT
-      logo: chatgpt.png
-      url: https://chatgpt.com/
-      description: Ai ChatGPT。
-    - title: Gemini
-      logo: google-gemini.png
-      url: https://gemini.google.com/
-      description: Ai Gemini。 
-    - title: 谷歌
-      logo: google.png
-      url: https://www.google.com/
-      description: 谷歌搜索。     
-    - title: Grok
-      logo: grok.png
-      url: https://grok.com/
-      description: X Ai Grok。      
-    - title: OUTLOOK 邮箱
-      logo: outlook.png
-      url: https://www.outlook.com
-      description: 微软邮箱。
-    - title: GMAIL 邮箱
-      logo: gmail.png
-      url: https://mail.google.com/
-      description: 谷歌邮箱。      
-    - title: 126 邮箱
-      logo: 126mail.png
-      url: http://mail.126.com/
-      description: 网易126免费邮箱。    
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
+  list:
+    - term: 办公常用
+      links:
+        - title: OA办公
+          logo: jxgk.jpg
+          url: https://hr.jxgkjt.com:18110/RedseaPlatform/jsp/customized/standard/index.jsp
+          description: OA办公。
+    - term: 常用推荐
+      links: 
+        - title: CloudFlare
+          logo: cloudflare.png
+          url: https://www.cloudflare-cn.com/
+          description: CloudFlare 智能化云服务平台。    
+        - title: GitHub
+          logo: github.png
+          url: https://github.com/
+          description: GitHub 开源社区。
+        - title: notebooklm
+          logo: notebooklm.png
+          url: https://notebooklm.google.com/
+          description: 谷歌笔记本，变革你的学习笔记。   
+        - title: OpenWrt
+          logo: openwrt.png
+          url: http://192.168.124.254
+          description: Rout openwrt。
+        - title: Clash Yacd
+          logo: yacd.png
+          url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
+          description: OpenClash 控制面板。      
+        - title: ChatGPT
+          logo: chatgpt.png
+          url: https://chatgpt.com/
+          description: Ai ChatGPT。
+        - title: Gemini
+          logo: google-gemini.png
+          url: https://gemini.google.com/
+          description: Ai Gemini。 
+        - title: 谷歌
+          logo: google.png
+          url: https://www.google.com/
+          description: 谷歌搜索。     
+        - title: Grok
+          logo: grok.png
+          url: https://grok.com/
+          description: X Ai Grok。      
+        - title: OUTLOOK 邮箱
+          logo: outlook.png
+          url: https://www.outlook.com
+          description: 微软邮箱。
+        - title: GMAIL 邮箱
+          logo: gmail.png
+          url: https://mail.google.com/
+          description: 谷歌邮箱。      
+        - title: 126 邮箱
+          logo: 126mail.png
+          url: http://mail.126.com/
+          description: 网易126免费邮箱。    
+        - title: QQ 邮箱
+          logo: qq邮箱.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。
+        - title: 知乎
+          logo: 知乎.png
+          url: https://www.zhihu.com/
+          description: 知乎社区。
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
