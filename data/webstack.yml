@@ -55,6 +55,10 @@
       logo: qq邮箱.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
+    - title: 东方财富网
+      logo: eastmoney.png
+      url: https://www.eastmoney.com/
+      description: 财经服务，提供专业数据。       
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
