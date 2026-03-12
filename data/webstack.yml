@@ -31,14 +31,18 @@
       logo: google-gemini.png
       url: https://gemini.google.com/
       description: Ai Gemini。 
+    - title: Grok
+      logo: grok.png
+      url: https://grok.com/
+      description: X Ai Grok。
+    - title: 豆包
+      logo: doubao.webp
+      url: https://www.doubao.com/chat/
+      description: 字节旗下AI。      
     - title: 谷歌
       logo: google.png
       url: https://www.google.com/
       description: 谷歌搜索。     
-    - title: Grok
-      logo: grok.png
-      url: https://grok.com/
-      description: X Ai Grok。      
     - title: OUTLOOK 邮箱
       logo: outlook.png
       url: https://www.outlook.com
@@ -59,10 +63,6 @@
       logo: eastmoney.png
       url: https://www.eastmoney.com/
       description: 财经服务，提供专业数据。       
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。 
     - title: 江西国税
       logo: zgsw.jpg
       url: https://etax.jiangxi.chinatax.gov.cn:8443/
@@ -71,7 +71,10 @@
       logo: jxgk.jpg
       url: https://hr.jxgkjt.com:18110/RedseaPlatform/jsp/customized/standard/index.jsp
       description: 江西国控HR管理。          
-
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。 
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
