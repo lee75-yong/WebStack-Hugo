@@ -85,6 +85,10 @@
           logo: youtube.png
           url: https://www.youtube.com/
           description: YouTube视频。
+        - title: MoonTV
+          logo: moontv.png
+          url: https://tv.everfun75.dpdns.org/
+          description: 跨平台的影视聚合播放器。          
         - title: 腾讯视频
           logo: 腾讯视频.png
           url: http://v.qq.com/
@@ -125,6 +129,14 @@
   list:
     - term: 自建工具
       links:
+        - title: 云便笺
+          logo: apache.png
+          url: https://note.8117.de5.net/
+          description: CloudFlare搭建云便笺。
+        - title: PDFCraft
+          logo: apache.png
+          url: https://pdf.nckj.cc.cd/zh/
+          description: CloudFlare搭建专业PDF工具。            
         - title: 订阅管理
           logo: dingyue.jpg
           url: https://subst.8117.de5.net/admin/dashboard
