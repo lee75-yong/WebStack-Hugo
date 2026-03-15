@@ -134,7 +134,7 @@
           url: https://note.8117.de5.net/
           description: CloudFlare搭建云便笺。
         - title: PDFCraft
-          logo: apache.png
+          logo: pdf.jpg
           url: https://pdf.nckj.cc.cd/zh/
           description: CloudFlare搭建专业PDF工具。            
         - title: 订阅管理
