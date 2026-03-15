@@ -123,6 +123,13 @@
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
+    - term: 自建工具
+      links:
+        - title: 订阅管理
+          logo: dingyue.jpg
+          url: https://subst.8117.de5.net/admin/dashboard
+          description: 订阅管理系统。
+  
     - term: IT信息
       links:
         - title: 爪云
