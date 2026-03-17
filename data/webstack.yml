@@ -2,6 +2,7 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
+  list:
     - term: 常用网址  
       links: 
         - title: 谷歌
