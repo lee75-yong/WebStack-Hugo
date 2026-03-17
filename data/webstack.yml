@@ -24,7 +24,11 @@
         - title: Clash Yacd
           logo: yacd.png
           url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
-          description: OpenClash 控制面板。      
+          description: OpenClash 控制面板。
+        - title: YOUTUBE
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description: YouTube视频。          
     - term: AI工具
       links:        
         - title: ChatGPT
@@ -97,7 +101,24 @@
           logo: itdog.jpg
           url: https://www.itdog.cn/tcping
           description: ITDOG-在线Ping。
-
+    - term: 自建网站
+      links:
+        - title: 云便笺
+          logo: apache.png
+          url: https://note.8117.de5.net/
+          description: CloudFlare搭建云便笺。
+        - title: PDFCraft
+          logo: pdf.jpg
+          url: https://pdf.nckj.cc.cd/zh/
+          description: CloudFlare搭建专业PDF工具。            
+        - title: 订阅管理
+          logo: dingyue.jpg
+          url: https://subst.8117.de5.net/admin/dashboard
+          description: 订阅管理系统。
+        - title: MoonTV
+          logo: moontv.png
+          url: https://tv.everfun75.dpdns.org/
+          description: 跨平台的影视聚合播放器。            
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -107,11 +128,7 @@
         - title: YOUTUBE
           logo: youtube.png
           url: https://www.youtube.com/
-          description: YouTube视频。
-        - title: MoonTV
-          logo: moontv.png
-          url: https://tv.everfun75.dpdns.org/
-          description: 跨平台的影视聚合播放器。          
+          description: YouTube视频。    
         - title: 腾讯视频
           logo: 腾讯视频.png
           url: http://v.qq.com/
@@ -141,21 +158,6 @@
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
-    - term: 自建网站
-      links:
-        - title: 云便笺
-          logo: apache.png
-          url: https://note.8117.de5.net/
-          description: CloudFlare搭建云便笺。
-        - title: PDFCraft
-          logo: pdf.jpg
-          url: https://pdf.nckj.cc.cd/zh/
-          description: CloudFlare搭建专业PDF工具。            
-        - title: 订阅管理
-          logo: dingyue.jpg
-          url: https://subst.8117.de5.net/admin/dashboard
-          description: 订阅管理系统。
-  
     - term: 网络服务
       links:
         - title: 爪云
