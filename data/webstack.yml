@@ -2,79 +2,101 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
-    - title: CloudFlare
-      logo: cloudflare.png
-      url: https://www.cloudflare-cn.com/
-      description: CloudFlare 智能化云服务平台。    
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: notebooklm
-      logo: notebooklm.png
-      url: https://notebooklm.google.com/
-      description: 谷歌笔记本，变革你的学习笔记。   
-    - title: OpenWrt
-      logo: openwrt.png
-      url: http://192.168.124.254
-      description: Rout openwrt。
-    - title: Clash Yacd
-      logo: yacd.png
-      url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
-      description: OpenClash 控制面板。      
-    - title: ChatGPT
-      logo: chatgpt.png
-      url: https://chatgpt.com/
-      description: Ai ChatGPT。
-    - title: Gemini
-      logo: google-gemini.png
-      url: https://gemini.google.com/
-      description: Ai Gemini。 
-    - title: Grok
-      logo: grok.png
-      url: https://grok.com/
-      description: X Ai Grok。
-    - title: 豆包
-      logo: doubao.webp
-      url: https://www.doubao.com/chat/
-      description: 字节旗下AI。      
-    - title: 谷歌
-      logo: google.png
-      url: https://www.google.com/
-      description: 谷歌搜索。     
-    - title: OUTLOOK 邮箱
-      logo: outlook.png
-      url: https://www.outlook.com
-      description: 微软邮箱。
-    - title: GMAIL 邮箱
-      logo: gmail.png
-      url: https://mail.google.com/
-      description: 谷歌邮箱。      
-    - title: 126 邮箱
-      logo: 126mail.png
-      url: http://mail.126.com/
-      description: 网易126免费邮箱。    
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 东方财富网
-      logo: eastmoney.png
-      url: https://www.eastmoney.com/
-      description: 财经服务，提供专业数据。       
-    - title: 江西国税
-      logo: zgsw.jpg
-      url: https://etax.jiangxi.chinatax.gov.cn:8443/
-      description: 江西国税网上申报入口。           
-    - title: 江西国控
-      logo: jxgk.jpg
-      url: https://hr.jxgkjt.com:18110/RedseaPlatform/jsp/customized/standard/index.jsp
-      description: 江西国控HR管理。          
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。 
+    - term: 常用网址  
+      links: 
+        - title: 谷歌
+          logo: google.png
+          url: https://www.google.com/
+          description: 谷歌搜索。       
+        - title: CloudFlare
+          logo: cloudflare.png
+          url: https://www.cloudflare-cn.com/
+          description: CloudFlare 智能化云服务平台。    
+        - title: GitHub
+          logo: github.png
+          url: https://github.com/
+          description: GitHub 开源社区。
+        - title: OpenWrt
+          logo: openwrt.png
+          url: http://192.168.124.254
+          description: Rout openwrt。
+        - title: Clash Yacd
+          logo: yacd.png
+          url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
+          description: OpenClash 控制面板。      
+    - term: AI工具
+      links:        
+        - title: ChatGPT
+          logo: chatgpt.png
+          url: https://chatgpt.com/
+          description: Ai ChatGPT。
+        - title: Gemini
+          logo: google-gemini.png
+          url: https://gemini.google.com/
+          description: Ai Gemini。 
+        - title: Grok
+          logo: grok.png
+          url: https://grok.com/
+          description: X Ai Grok。
+        - title: 豆包
+          logo: doubao.webp
+          url: https://www.doubao.com/chat/
+          description: 字节旗下AI。      
+        - title: notebooklm
+          logo: notebooklm.png
+          url: https://notebooklm.google.com/
+          description: 谷歌笔记本，变革你的学习笔记。      
+    - term: 常用邮箱
+      links:
+        - title: OUTLOOK 邮箱
+          logo: outlook.png
+          url: https://www.outlook.com
+          description: 微软邮箱。
+        - title: GMAIL 邮箱
+          logo: gmail.png
+          url: https://mail.google.com/
+          description: 谷歌邮箱。      
+        - title: 126 邮箱
+          logo: 126mail.png
+          url: http://mail.126.com/
+          description: 网易126免费邮箱。    
+        - title: QQ 邮箱
+          logo: qq邮箱.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。
+    - term: 日常办公
+      links:     
+        - title: 江西国税
+          logo: zgsw.jpg
+          url: https://etax.jiangxi.chinatax.gov.cn:8443/
+          description: 江西国税网上申报入口。           
+        - title: 江西国控
+          logo: jxgk.jpg
+          url: https://hr.jxgkjt.com:18110/RedseaPlatform/jsp/customized/standard/index.jsp
+          description: 江西国控HR管理。          
+        - title: 知乎
+          logo: 知乎.png
+          url: https://www.zhihu.com/
+          description: 知乎社区。 
+        - title: 东方财富网
+          logo: eastmoney.png
+          url: https://www.eastmoney.com/
+          description: 财经服务，提供专业数据。  
+    - term: 网络工具
+      links:
+        - title: DNS泄漏测试
+          logo: dns.jpg
+          url: https://browserleaks.com/dns
+          description: DNS泄漏测试。      
+        - title: Ip信息详情
+          logo: ip-adress.png
+          url: https://ip.ssss.nyc.mn/
+          description: IP 信息详情。
+        - title: ITdog
+          logo: itdog.jpg
+          url: https://www.itdog.cn/tcping
+          description: ITDOG-在线Ping。
+
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -113,21 +135,12 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
-    - term: 自建工具
+    - term: 自建网站
       links:
         - title: 云便笺
           logo: apache.png
@@ -142,7 +155,7 @@
           url: https://subst.8117.de5.net/admin/dashboard
           description: 订阅管理系统。
   
-    - term: IT信息
+    - term: 网络服务
       links:
         - title: 爪云
           logo: clawcloud.png
@@ -152,10 +165,6 @@
           logo: dnshe.jpg
           url: https://my.dnshe.com/
           description: DNSHE免费域名管理平台。
-        - title: DNS泄漏测试
-          logo: dns.jpg
-          url: https://browserleaks.com/dns
-          description: DNS泄漏测试。
         - title: DigitalPlat Domain Dashboard
           logo: digitalplat.jpg
           url: https://dash.domain.digitalplat.org/auth/login
