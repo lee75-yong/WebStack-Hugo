@@ -104,7 +104,7 @@
     - term: 自建网站
       links:
         - title: 云便笺
-          logo: apache.png
+          logo: bq2.jpg
           url: https://note.8117.de5.net/
           description: CloudFlare搭建云便笺。
         - title: PDFCraft
