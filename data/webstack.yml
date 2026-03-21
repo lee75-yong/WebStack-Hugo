@@ -60,7 +60,11 @@
         - title: GMAIL 邮箱
           logo: gmail.png
           url: https://mail.google.com/
-          description: 谷歌邮箱。      
+          description: 谷歌邮箱。     
+        - title: 163 邮箱
+          logo: wangyi.jpg
+          url: http://mail.163.com/
+          description: 网易163免费邮箱。            
         - title: 126 邮箱
           logo: 126mail.png
           url: http://mail.126.com/
