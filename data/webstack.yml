@@ -107,6 +107,10 @@
           description: ITDOG-在线Ping。
     - term: 自建网站
       links:
+        - title: ImgBed图床
+          logo: imgbed.jpg
+          url: https://img.8117.de5.net/
+          description: CloudFlare ImgBed 开源文件托管解决方案。      
         - title: 云便笺
           logo: bq2.jpg
           url: https://note.8117.de5.net/
