@@ -29,7 +29,7 @@
           logo: yacd.png
           url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
           description: OpenClash 控制面板。
-        - title: Arai2
+        - title: Aria2
           logo: arai2.jpg
           url: http://192.168.124.254/ariang-nginx/#!/downloading
           description: Arai2管理面板。               
