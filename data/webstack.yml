@@ -17,6 +17,10 @@
           logo: github.png
           url: https://github.com/
           description: GitHub 开源社区。
+        - title: YOUTUBE
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description: YouTube视频。            
         - title: OpenWrt
           logo: openwrt.png
           url: http://192.168.124.254
@@ -25,10 +29,11 @@
           logo: yacd.png
           url: http://192.168.124.254:9090/ui/yacd/?hostname=192.168.124.254&port=9090&secret=1WGdNPl0
           description: OpenClash 控制面板。
-        - title: YOUTUBE
-          logo: youtube.png
-          url: https://www.youtube.com/
-          description: YouTube视频。          
+        - title: Arai2
+          logo: arai2.jpg
+          url: http://192.168.124.254/ariang-nginx/#!/downloading
+          description: Arai2管理面板。               
+     
     - term: AI工具
       links:        
         - title: ChatGPT
