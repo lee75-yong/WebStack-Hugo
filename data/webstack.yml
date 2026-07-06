@@ -36,7 +36,7 @@
         - title: ZeroTier
           logo: zerotier.png
           url: https://central.zerotier.com/
-          description: 开源的虚拟网络平台，快捷异地组网        
+          description: 开源的虚拟网络平台，快捷异地组网。
      
     - term: AI工具
       links:        
