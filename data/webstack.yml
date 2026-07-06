@@ -32,7 +32,11 @@
         - title: Aria2
           logo: aria2.jpg
           url: http://192.168.124.254/ariang-nginx/#!/downloading
-          description: Arai2管理面板。               
+          description: Arai2管理面板。
+         - title: ZeroTier
+          logo: zerotier.png
+          url: https://central.zerotier.com/
+          description: 开源的虚拟网络平台，快捷异地组网        
      
     - term: AI工具
       links:        
