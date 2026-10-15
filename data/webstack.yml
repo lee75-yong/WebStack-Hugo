@@ -80,6 +80,10 @@
           logo: hark.png
           url: https://hark.com/
           description: Hark AI 个人智能助手
+        - title: AGNES
+          logo: agnes.png
+          url: https://platform.agnes-ai.com/settings/usage
+          description: Agnes AI 智能助手平台
     - term: 常用邮箱
       links:
         - title: OUTLOOK 邮箱
