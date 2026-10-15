@@ -70,11 +70,11 @@
           description: DeepSeek 深度求索
         - title: 妙想金融大模型
           logo: eastmoney.jpg
-          url: https://ai.eastmoney.com/
+          url: https://ai.eastmoney.com/skills
           description: 东方财富妙想金融大模型
         - title: Radeon 云
           logo: amd.jpg
-          url: https://developer.amd.com.cn/radeon/
+          url: https://developer.amd.com.cn/radeon/tokenfactory
           description: AMD Radeon 云 GPU 计算平台
         - title: Hark
           logo: hark.png
