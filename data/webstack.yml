@@ -60,6 +60,26 @@
           logo: notebooklm.png
           url: https://notebooklm.google.com/
           description: 谷歌笔记本，变革你的学习笔记。      
+        - title: Kimi.ai
+          logo: kimi.png
+          url: https://www.kimi.com/
+          description: 月之暗面 Kimi 智能助手
+        - title: DeepSeek
+          logo: deepseek.png
+          url: https://www.deepseek.com/zh
+          description: DeepSeek 深度求索
+        - title: 妙想金融大模型
+          logo: eastmoney.jpg
+          url: https://ai.eastmoney.com/
+          description: 东方财富妙想金融大模型
+        - title: Radeon 云
+          logo: amd.jpg
+          url: https://developer.amd.com.cn/radeon/
+          description: AMD Radeon 云 GPU 计算平台
+        - title: Hark
+          logo: hark.jpg
+          url: https://hark.com/
+          description: Hark AI 个人智能助手
     - term: 常用邮箱
       links:
         - title: OUTLOOK 邮箱
