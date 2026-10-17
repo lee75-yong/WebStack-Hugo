@@ -76,14 +76,16 @@
                         {{ with .Site.Params.yiyan }}
                         <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn')
+                                const hitokotoCtl = new AbortController();
+                                const hitokotoT = setTimeout(() => hitokotoCtl.abort(), 3000);
+                                fetch('https://v1.hitokoto.cn', { signal: hitokotoCtl.signal })
                                     .then(response => response.json())
                                     .then(data => {
                                     const hitokoto = document.getElementById('hitokoto_text')
-                                    hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-                                    hitokoto.innerText = data.hitokoto
+                                    if (hitokoto) { hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid; hitokoto.innerText = data.hitokoto }
                                     })
-                                    .catch(console.error)
+                                    .catch(() => {})
+                                    .finally(() => clearTimeout(hitokotoT))
                             </script>                           
                             <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
                         </li>
