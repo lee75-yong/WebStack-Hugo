@@ -166,7 +166,11 @@
         - title: MoonTV
           logo: moontv.png
           url: https://tv.everfun75.dpdns.org/
-          description: 跨平台的影视聚合播放器。            
+          description: 跨平台的影视聚合播放器。
+        - title: VOD 管理
+          logo: vodadmin.png
+          url: https://vod.everfun75.dpdns.org/admin
+          description: IPTV直播源与VOD点播源管理。
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
