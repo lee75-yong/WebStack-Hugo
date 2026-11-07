@@ -228,6 +228,10 @@
           logo: cloudns.jpg
           url: https://www.cloudns.net/
           description: 用于动态DNS的永久免费DNS托管。
+        - title: Cloady
+          logo: cloady.png
+          url: https://cloady.com/w/workspace-wplhyc/use1/production
+          description: Cloady 应用托管平台工作区控制台。
 
     - term: 云服务器
       links:
