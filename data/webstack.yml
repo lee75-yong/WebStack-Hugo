@@ -37,6 +37,10 @@
           logo: zerotier.png
           url: https://central.zerotier.com/
           description: 开源的虚拟网络平台，快捷异地组网。
+        - title: Agent2API
+          logo: agent2api.png
+          url: http://192.168.124.254:3065/
+          description: 本地 AI 路由网关，统一 OpenAI/Anthropic 接口。
      
     - term: AI工具
       links:        
