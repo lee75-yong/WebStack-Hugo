@@ -175,6 +175,10 @@
           logo: vodadmin.png
           url: https://vod.everfun75.dpdns.org/admin
           description: IPTV直播源与VOD点播源管理。
+        - title: 头条收藏导航
+          logo: toutiao.png
+          url: https://nav.everfun75.dpdns.org/
+          description: 今日头条收藏分类导航（1696条，可按分类筛选/搜索）。
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
